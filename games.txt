@@ -1,0 +1,5 @@
+GameName, GameMainLocation, PictureLocation
+Snake, games/snake/main.py, pict/0.jpg
+Tetris, games/tetris/main.py, pict/1.jpg
+Pong, games/pong/main.py, pict/2.jpg
+Ultrasonic, games/ultrasonic/main.py, pict/3.jpg
